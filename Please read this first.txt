@@ -1,0 +1,11 @@
+PLEASE READ THIS NOTE BEFORE USE THE GAME OR FILE
+
+I hope you have already seen my first project, which is my personal profolio website.
+This is my first game that i make using python. I'm still learning so thats why this game or documentation not look too professional.
+I have uploaded the game code file only, because the GUI one is still in development.
+There are some more features that, i wanted to add in this game and they will be updated soon.
+Also if you are facing any problem or have any suggestion regarding this game just feel free to contact me.
+Thank you for using and playing my game. I hope, you'll or you're enjoy the game
+
+Thanks and Regards
+Gopal Singh
